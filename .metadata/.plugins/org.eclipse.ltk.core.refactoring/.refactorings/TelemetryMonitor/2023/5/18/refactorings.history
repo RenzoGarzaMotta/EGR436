@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;TelemetryMonitor/Core/Inc/bno055_stm32&apos; to &apos;bno055_stm32.h&apos;" description="Rename resource &apos;bno055_stm32&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Inc/bno055_stm32" name="bno055_stm32.h" stamp="1682910269579" updateReferences="true"/>
+</session>

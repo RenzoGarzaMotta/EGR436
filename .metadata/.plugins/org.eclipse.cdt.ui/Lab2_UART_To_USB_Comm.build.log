@@ -1,0 +1,10 @@
+20:45:58 **** Incremental Build of configuration Debug for project Lab2_UART_To_USB_Comm ****
+make -j3 all 
+arm-none-eabi-size   Lab2_UART_To_USB_Comm.elf 
+   text	   data	    bss	    dec	    hex	filename
+  19008	    120	   1880	  21008	   5210	Lab2_UART_To_USB_Comm.elf
+Finished building: default.size.stdout
+ 
+
+20:45:59 Build Finished. 0 errors, 0 warnings. (took 546ms)
+

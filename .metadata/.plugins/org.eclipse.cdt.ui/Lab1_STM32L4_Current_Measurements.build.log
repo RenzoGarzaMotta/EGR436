@@ -1,0 +1,10 @@
+20:05:27 **** Incremental Build of configuration Debug for project Lab1_STM32L4_Current_Measurements ****
+make -j3 all 
+arm-none-eabi-size   Lab1_STM32L4_Current_Measurements.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6432	     20	   1572	   8024	   1f58	Lab1_STM32L4_Current_Measurements.elf
+Finished building: default.size.stdout
+ 
+
+20:05:27 Build Finished. 0 errors, 0 warnings. (took 329ms)
+

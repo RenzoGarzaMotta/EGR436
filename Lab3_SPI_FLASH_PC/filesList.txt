@@ -1,0 +1,6 @@
+STORE BabyBaby_MotherGoose.txt
+STORE CandleForBed_MotherGoose.txt
+STORE FatherLongLegs_NancyCock1780.txt
+STORE GeneralMonk_Rhymes.txt
+STORE LarryLarry_MotherGoose.txt
+STORE ManSoWise_TomThumb1744.txt
